@@ -4,6 +4,7 @@
 
 <p align="left">
 🔊 Please check out  <a href='https://burtohe.ip-ddns.com/' target="_blank" rel="noopener noreferrer" title="Visit BurtoHee personal website">my page</a><br>
+  My Old Github: <a href='https://github.com/burtohe' target="_blank" rel="noopener noreferrer" title="Visit BurtoHe's Github">my old github</a><br>
 💼 Currently, looking for IT jobs<br>
 ✨ Creating bugs since 0 but fixing them correctly<br>
 📚 Studied Computer Science at the University of Western <br>
